@@ -9,3 +9,11 @@ You can follow me, contact me, see what I do, or use my open source code:
 - Dev: [anorprogrammer](https://dev.to/anorprogrammer)
 - Medium: [anorprogrammer](https://medium.com/@anorprogrammer)
 <!--- Web: [anorprogrammer]()-->
+
+<a href="https://github.com/anorprogrammer">
+<p align="left">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anorprogrammer&theme=github_dark">
+<img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=anorprogrammer&theme=github_dark">
+<img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=anorprogrammer&theme=github_dark"><br>
+    </p>
+</a> 
